@@ -28,4 +28,8 @@ export class StartComponent implements OnInit {
     })
   }
 
+  public starNewGameClickBtn() {
+    console.log('starNewGameClickBtn ->', 'starNewGameClickBtn')
+  }
+
 }
